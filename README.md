@@ -48,16 +48,20 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
+<img width="1600" height="1001" alt="image" src="https://github.com/user-attachments/assets/794f49bb-d410-49c6-bf62-6f33b8ddab98" />
 
 Tabulation for Load Test:
+<img width="1225" height="618" alt="image" src="https://github.com/user-attachments/assets/f9e149c0-89c8-4095-a7bc-aa517fc9e3ac" />
 
 Model graph:
-Calculation: 
+Open Circuit Characteristics
+<img width="1600" height="1270" alt="image" src="https://github.com/user-attachments/assets/58f26a9a-75dd-4fae-8ba0-9fe943ec0b35" />
+<img width="980" height="1343" alt="image" src="https://github.com/user-attachments/assets/3c8b9da5-f9ca-4cd3-a21c-38f8d2146302" />
 
-Open circuit characteristics
 
-  
-Load Characteristics:
- 
+Load Test CHaracteristics
+<img width="1600" height="1349" alt="image" src="https://github.com/user-attachments/assets/4af80365-c441-4ae7-b32c-d64c48a8bf1c" />
+<img width="980" height="1343" alt="image" src="https://github.com/user-attachments/assets/9d356eab-9b03-4896-874e-2ed98d10e2b3" />
+
 Result:
-The load test on separately excited generators and to obtain the characteristics was verified.
+Thus the open circuit and load characteristics of DC shunt generator were verified successfully.
